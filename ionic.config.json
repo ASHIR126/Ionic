@@ -1,0 +1,7 @@
+{
+  "name": "Camera App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
